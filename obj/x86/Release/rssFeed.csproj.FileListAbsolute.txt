@@ -1,0 +1,15 @@
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\rssFeed.exe
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\rssFeed.pdb
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.Form1.resources
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.Form2.resources
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.Properties.Resources.resources
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.csproj.GenerateResource.Cache
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.exe
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.pdb
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\rssFeed.exe.config
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\HtmlAgilityPack.dll
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\System.Net.Http.dll
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\HtmlAgilityPack.xml
+C:\Users\Oksana\documents\visual studio 2010\Projects\rssFeed\rssFeed\bin\Release\System.Net.Http.xml
+C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\obj\x86\Release\rssFeed.csprojResolveAssemblyReference.cache
