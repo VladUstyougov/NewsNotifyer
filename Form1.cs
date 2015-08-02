@@ -95,7 +95,7 @@ namespace rssFeed
             //otherForm.TextInput = str ;
             //  otherForm=null;
         }
-        String strWithParam, p1, p2, p3, p4, p5;
+       // String strWithParam, p1, p2, p3, p4, p5;
 
         public void rss()
         {

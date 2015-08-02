@@ -12,3 +12,4 @@ C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\bin\Debug\
 C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\bin\Debug\HtmlAgilityPack.xml
 C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\bin\Debug\System.Net.Http.xml
+C:\Users\Oksana\Documents\Visual Studio 2010\Projects\rssFeed\rssFeed\obj\x86\Debug\rssFeed.csprojResolveAssemblyReference.cache
